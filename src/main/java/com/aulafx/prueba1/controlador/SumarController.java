@@ -1,9 +1,9 @@
-package com.example.demo;
+package com.aulafx.prueba1.controlador;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class SumarController {
     @FXML
     private Label welcomeText;
 
